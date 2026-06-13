@@ -1,5 +1,5 @@
 Bismillahirrahmanirrahiim
 
-echo "bash ~/elang_banner.sh" >> ~/.bashrc
+echo "bash ~/elang.sh" >> ~/.bashrc
 
 source ~/.bashrc
