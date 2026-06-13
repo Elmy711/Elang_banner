@@ -1,5 +1,5 @@
 pkg install figlet toilet -y
 
-chmod +x elang_banner.sh
+chmod +x elang.sh
 
-bash elang_banner.sh
+bash elang.sh
